@@ -1,0 +1,21 @@
+.header{
+	background:pink;
+	padding:10px;
+	margin:10px;
+	border:10px solid aquamarine;	
+}
+
+.sidebar{
+	background:yellow;
+	padding:15px;
+	max-width:15%;
+	display:inline-block;
+
+
+}
+
+.main{
+	background:beige;
+	border: 2px dotted blue;
+	display:inline-block;
+}
