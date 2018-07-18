@@ -1,21 +1,44 @@
+body{
+    background:rgba(249, 255, 193, 0.59);
+    margin:0px;
+}
 .header{
-	background:pink;
-	padding:10px;
-	margin:10px;
-	border:10px solid aquamarine;	
+	background:rgb(64, 54, 76);
+	padding:3px;
+  margin:0px;
+}
+
+h1{
+    text-align:center;
+    font-size:60px;
+    color:rgb(165, 121, 80);
 }
 
 .sidebar{
 	background:yellow;
-	padding:15px;
-	max-width:15%;
+	height:200px;
+  width:100px;
+  margin-bottom: 20px;
 	display:inline-block;
-
-
 }
 
 .main{
 	background:beige;
-	border: 2px dotted blue;
+	border: 3px dotted blue;
 	display:inline-block;
+}
+
+.media{
+      background:rgb(244, 244, 255);
+      margin:0px;
+}
+
+table{
+      margin:auto;
+}
+
+h3{
+    color:black;
+    font-size: 23px;
+    text-align: center;
 }
