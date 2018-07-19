@@ -44,10 +44,8 @@ h2{
 }
 .rightbar{
 	background:linear-gradient(rgb(253, 255, 103),orange);
-	border-left:3px solid brown;
-  float:right;
-  width:33%;
-  height:700px;
+  	width:33%;
+  	height:700px;
 	display:inline-block;
 }
 
