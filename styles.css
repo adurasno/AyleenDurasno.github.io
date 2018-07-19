@@ -2,6 +2,7 @@ body{
     background:rgba(249, 255, 193, 0.59);
     margin:0px;
 }
+
 .header{
 	background:rgb(64, 54, 76);
   	padding: 3px;
@@ -36,7 +37,8 @@ h2{
 
 .middlebar{
 	width:33%
-	display:inline-block;
+	margin-left:auto;
+	margin-right:auto;
 }
 .rightbar{
 	background:linear-gradient(rgb(253, 255, 103),orange);
