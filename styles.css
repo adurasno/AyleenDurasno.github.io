@@ -4,8 +4,9 @@ body{
 }
 .header{
 	background:rgb(64, 54, 76);
-  padding: 3px;
-  margin:0;
+  	padding: 3px;
+  	margin:0;
+	border-bottom:3px solid brown;
 }
 
 h1{
@@ -19,11 +20,11 @@ h1{
 .firstbar{
 	background:linear-gradient(rgb(253, 255, 103),orange);
 	width:33%;
-  height:491px;
-  float:left;
+ 	 height:600px;
+  	float:left;
 	display:inline-block;
-  border-right: 3px solid black;
-  text-align: center;
+ 	 border-right: 3px solid brown;
+ 	 text-align: center;
 }
 h4{
   text-align: left;
@@ -37,10 +38,10 @@ h2{
 
 .rightbar{
 	background:linear-gradient(rgb(253, 255, 103),orange);
-	border-left:3px solid black;
+	border-left:3px solid brown;
   float:right;
   width:33%;
-  height:491px;
+  height:600px;
 	display:inline-block;
 }
 
