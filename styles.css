@@ -4,45 +4,66 @@ body{
 }
 .header{
 	background:rgb(64, 54, 76);
-	padding:3px;
-  margin:0px;
+  padding: 3px;
+  margin:0;
 }
 
 h1{
     text-align:center;
     font-size:60px;
+    font-family: monospace;
+    font-weight: lighter;
     color:rgb(165, 121, 80);
 }
 
-.sidebar{
-	background:yellow;
-	height:200px;
-  width:100px;
-  margin-bottom: 20px;
+.firstbar{
+	background:linear-gradient(rgb(253, 255, 103),orange);
+	width:33%;
+  height:491px;
+  float:left;
 	display:inline-block;
+  border-right: 3px solid black;
+  text-align: center;
+}
+h4{
+  text-align: left;
+  margin:4px;
 }
 
-.main{
-	background:beige;
-	border: 3px dotted blue;
+h2{
+    text-align: center;
+    font-family: georgia;
+}
+
+.rightbar{
+	background:linear-gradient(rgb(253, 255, 103),orange);
+	border-left:3px solid black;
+  float:right;
+  width:33%;
+  height:491px;
 	display:inline-block;
 }
 
 .media{
-      background:rgb(244, 244, 255);
-      position:absolute;
-      bottom:0;
-      height:20%;
+      background:rgb(213, 184, 192);
+      height:15%;
       width:100%;
-      margin:0px;
+      position: fixed;
+      left: 0px;
+      bottom: 0px;
+      border-top: 3px solid brown;
 }
 
 table{
       margin:auto;
+      position:relative;
+      bottom:50px;
 }
 
 h3{
     color:black;
     font-size: 23px;
     text-align: center;
+    position: relative;
+    bottom: 25px;
 }
