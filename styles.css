@@ -35,13 +35,7 @@ h2{
     font-family: georgia;
 }
 
-.middlebar{
-	width:33%
-	float:center; 
-	margin-left:34%;
-	margin-right:34%;
-	height:700px;
-}
+
 .rightbar{
 	background:linear-gradient(rgb(253, 255, 103),orange);
   	width:33%;
