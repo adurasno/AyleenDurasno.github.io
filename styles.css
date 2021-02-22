@@ -5,10 +5,9 @@ body{
 }
 
 .header{
-	background:rgb(64, 54, 76);
+	background:rgb(178, 157, 201);
   	padding: 3px;
   	margin:0;
-	border-bottom:3px solid brown;
 }
 
 h1{
@@ -23,17 +22,6 @@ p{
    font-family:georgia;
    font-weight:400;
 }
-.firstbar{
-	background-image:url("https://image.freepik.com/free-vector/nice-background-with-colorful-polygonal-shapes_1159-454.jpg");
-	background-size: cover;
-	width:30%;
- 	height:900px;
-  	float:left;
-	display:inline-block;
- 	 border-right: 3px solid brown;
- 	 text-align: center;
-}
-
 
 
 h2{
@@ -45,20 +33,10 @@ h2{
 
 
 .middlebar{
-	background:rgb(255, 204, 179);
+	background:rgb(117, 109, 107);
 	display:inline-block;
 	width:37%;
 	height:900px;
-}
-
-.rightbar{
-	background-image:url("https://image.freepik.com/free-vector/nice-background-with-colorful-polygonal-shapes_1159-454.jpg");
-	background-size: cover;
-	display:inline-block;
-	width:30%;
-	height:900px;
-  	float:right;
-	border-left:3px solid brown;
 }
 
 
@@ -79,9 +57,9 @@ table{
 }
 
 h3{
-    color:purple;
+    color:black;
     font-size: 23px;
-    font-family:courier,monospace;
+    font-family: Monaco;
     text-align: center;
     position: relative;
     bottom: 25px;
