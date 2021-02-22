@@ -1,6 +1,6 @@
 
 body{
-    background:rgb(255, 204, 179);
+    background:gray;
     margin:0px;
 }
 
@@ -31,17 +31,8 @@ h2{
     font-weight: bold;
 }
 
-
-.middlebar{
-	background:rgb(117, 109, 107);
-	display:inline-block;
-	width:37%;
-	height:900px;
-}
-
-
 .media{
-      background:rgb(242, 197, 124);
+      background:rgb(178, 157, 201);
       height:15%;
       width:100%;
       position: fixed;
