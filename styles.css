@@ -2,7 +2,6 @@
 body{
     background:gray;
     margin:0px;
-    overflow-y: scroll;
 }
 }
 
@@ -28,6 +27,7 @@ h1{
       position: fixed;
       left: 0px;
       bottom: 0px;
+      overflow-y: scroll;
 }
 
 table{
