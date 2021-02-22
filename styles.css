@@ -2,6 +2,8 @@
 body{
     background:gray;
     margin:0px;
+    overflow-y: scroll;
+}
 }
 
 .header{
